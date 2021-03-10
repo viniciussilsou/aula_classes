@@ -8,3 +8,7 @@ Uma classe anêmica(ou um POJO 'plain old java object' em java) é uma classe qu
 nenhuma função.
 Essa classe possui atributos que a representam, mas não possui métodos para executar algo. 
 Ela basicamente "guarda" dados
+
+## TODO
+
+Criar catalogo para endereco, e utilizar na criação da pessoa
